@@ -1,0 +1,2 @@
+# ENM
+Entropy Based Clustering 
