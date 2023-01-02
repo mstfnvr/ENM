@@ -1,2 +1,2 @@
 # ENM
-Entropy Based Clustering 
+A novel clustering algorithm 
